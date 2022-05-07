@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
     <version value="2.0" />
-    <identifier value="KamusBahasaIndonesia" />
+    <identifier value="KamusBasaSunda" />
     <display-name>
-        <name lang="id">Kamus dan pemenggal kata bahasa Indonesia</name>
+        <name lang="su">Kamus dan pemenggal kata basa Sunda</name>
     </display-name>
     <platform value="all" />
     <dependencies>
@@ -13,14 +13,14 @@
         <default xlink:href="bendera.jpg" />
     </icon>
     <publisher>
-        <name lang="id">Benitius Brevoort OFMCap</name>
+        <name lang="su">Benitius Brevoort OFMCap</name>
     </publisher>
     <extension-description>
-	<src xlink:href="info/short-description.txt" lang="id" />
+	<src xlink:href="info/short-description.txt" lang="su" />
     </extension-description>
     <extension-long-description>
-	<src xlink:href="info/long-description.txt" lang="id" />
+	<src xlink:href="info/long-description.txt" lang="su" />
     </extension-long-description>
 
-</description>
+</description>s
 
