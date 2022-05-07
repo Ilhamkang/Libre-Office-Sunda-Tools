@@ -1,7 +1,7 @@
 # Libre Office Sunda Tools
 Perkakas tambahan bahasa Sunda untuk Libre Office
 
-Perkakas lunak ini masih dalam tahap inisiasi dan memerlukan pengembangan lebih lanjut. Tahap pengembangan awal berdasarkan adaptasi dari <a href="https://extensions.libreoffice.org/en/extensions/show/indonesian-dictionary-kamus-indonesia-by-benitius">Kamus Indonesia Spellchecker</a> yang dikembagkan oleh Benitius Brevoort.    
+Perkakas lunak ini masih dalam tahap inisiasi dan memerlukan pengembangan lebih lanjut. Tahap pengembangan awal berdasarkan adaptasi dari <a href="https://extensions.libreoffice.org/en/extensions/show/indonesian-dictionary-kamus-indonesia-by-benitius">Kamus Indonesia Spellchecker</a> yang dibuat oleh Benitius Brevoort.    
 
  Dalam paket berkas ini terdapat beberapa fungsi: 
  1. Daftar kosakata bahasa Sunda berdasarkan entri lema Kamus Basa Sunda Sacadibrata
