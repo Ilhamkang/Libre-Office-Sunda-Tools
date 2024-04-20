@@ -1,21 +1,13 @@
-# Affix file for Indonesian dictionary version 2
-# Based on version 1, built from scratch for Myspell.
-# Released under GPL on 30 January 2004
-# Version 2 expanded and adapted for hunspell.
-# Released under GPL on 30 June 2014
+# Affix file for Sundanese dictionary version 1 for hunspell
+# Released under GPL on 20 April 2024
 # See text of license at: http://www.gnu.org/copyleft/gpl.html.
 #
-# Benitius Brevoort E-mail: benitius.brevoort@kapusin.org
-# 30 June 2014
+# Ilham Nurwansah E-mail: ilhamnurwansah@gmail.com
+# 20 April 2024
 # Uppercase letters indicate Prefixes; 
 # undercase letters indicate suffixes.
 #
-# Daftar awalan dan akhiran untuk kamus Indonesia.
-# Versi 1 diciptakan dari dasarnya bagi Myspell.
-# Diterbitkan tanggal 30 Januari 2004 dibawah lisensi GPL.
-# Versi 2 disesuaikan dan diperluas bagi hunspell.
-# Diterbitkan tanggal 30 Juni 2014 dibawah lisensi GPL.
-#
+# Daftar awalan dan akhiran untuk kamus Sunda.
 # Awalan disingkat dengan huruf BESAR
 # akhiran disingkat dengan huruf kecil.
 # Sejauh mungkin sesuai bunyinya, 
