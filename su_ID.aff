@@ -3,20 +3,20 @@
 # See text of license at: http://www.gnu.org/copyleft/gpl.html.
 #
 # Ilham Nurwansah E-mail: ilhamnurwansah@gmail.com
-# 20 April 2024
+# 20 April 2024 ; update: 19 Januari 2026
 # Uppercase letters indicate Prefixes; 
 # undercase letters indicate suffixes.
 #
-# Daftar awalan dan akhiran untuk kamus Sunda.
-# Awalan disingkat dengan huruf BESAR
-# akhiran disingkat dengan huruf kecil.
-# Sejauh mungkin sesuai bunyinya, 
-# misalnya: B = ber, T = ter, a = -an, k = -kan 
+# Daftar rarangkén hareup jeung rarangkén tukang pikeun kamus Basa Sunda.
+# Rarangkén hareup disingget ku hurup GEDÉ
+# rarangkén tukang disingget ku hurup leutik.
+# Sabisa-bisa diluyukeun jeung sorana, 
+# misalnya: K = ka, D = di, a = -an, e = -eun, k = -keun 
 # 
-# B0, D0 dst awalan asli (ber-, di-)
-# B1, B3 dst bagian pertama sirkumfiks (ber-an, dst)
-# Ba, Bk dst bagian kedua sirkumfiks (ber-an, ber-kan dst.)
-# BE, BI dst awalan dan imbuhan lain (be-, bersi- dst.)
+# K0, D0 jst. rarangkén hareup asli (ka-, di-)
+# K1, K3 jst. bagian kahiji sirkumfiks (ka-an, jst.)
+# Ka, Kk jst. bagian kadua sirkumfiks (ka-an, ka-keun jst.)
+# KE, KI jst. rarankén hareup jeung rarangkén séjén (be-, bersi- dst.) <=== can ngarti
 # 
 # Pertama diberikan awalan murni
 # Kedua diberi awalan majemuk
@@ -24,7 +24,7 @@
 # Keempat akhiran
 # disusun menurut abjad: Pertama HURUF BESAR lalu kecil
 
-# Nota: untuk menambahkan lebih dari satu bentuk (nya, nyakah dst) mulai yang kedua tidak diberi titik (.)
+# Catetan: untuk menambahkan lebih dari satu bentuk (nya, nyakah dst) mulai yang kedua tidak diberi titik (.)
 
 SET ISO8859-1
 TRY aeinrstkumlgopbdhjcyfwzqvxAEINRSTKUMLGOPBDHJCYFWZQVX
